@@ -2,7 +2,7 @@
   <b>Joseph Jack</b>
 </h1>
 <br>
-<p align="center"><b>Currently finishing up a Full-Stack program at Epicodus focusing on C# and JavaScript/React. Residing Seattle, WA where when I'm not coding I enjoy hiking, playing games and spending time with my partner and two adorable cats.</b><p>
+<p align="center"><b>Jr. Web Developer | Studying at Epicodus | Seattle, WA</b><p>
   <br>
 
 
