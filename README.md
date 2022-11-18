@@ -2,7 +2,7 @@
   <b>Joseph Jack</b>
 </h1>
 <br>
-<p align="center"><b>Aspiring Full Stack Web Developer | Interning at Opine School | Seattle, WA</b><p>
+<p align="center"><b>Full Stack Developer | Intern at Opine School | Seattle, WA</b><p>
   <br>
 
 
