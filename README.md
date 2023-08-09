@@ -2,10 +2,10 @@
   <b>Joseph Jack</b>
 </h1>
 <br>
-<p align="center"><b>Full Stack Developer | Seattle, WA</b><p>
+<p align="center"><b>Full Stack Software Developer | Seattle, WA</b><p>
   <br>
-<p align="center">Recently: Graduated from Epicodus for Web & Mobile Development & internship at Opine</p>
-<p align="center">Currently: Studying React, Mendix, and Serverless Computing.</p>
+<p align="center">Graduated from Epicodus for Web & Mobile Development & completed an internship at Opine.</p>
+<p align="center">Currently: Open to work </p>
 <div align="center">
  
   <img src="https://img.shields.io/badge/-HTML-F0F6FC?style=for-the-badge&logo=html5&logoColor=F0F6FC&labelColor=4EA22F">
