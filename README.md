@@ -4,7 +4,7 @@
 <br>
 <p align="center"><b>Full Stack Software Developer | Seattle, WA</b><p>
   <br>
-<p align="center">Graduated from Epicodus for Web & Mobile Development & completed an internship at Opine.</p>
+<p align="center">Previous: Epicodus Grad - Intern at Opine.</p>
 <p align="center">Currently: Open to work </p>
 <div align="center">
  
